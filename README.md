@@ -1,2 +1,2 @@
 # DeCodingJavaScript
-JavaScript Learning Practise
+JavaScript Learning Practice
